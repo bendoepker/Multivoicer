@@ -1,4 +1,3 @@
-# Source
 This project is serving as a learning tool which I am using to learn C++ as well as the JUCE framework for audio DSP processing.
 
 Project Purpose/Goal: This plugin/application will take inputs from a user (as specified below), and by using the midi data, it will create a duplicate audio signal as the inputted signal and transpose it to a new pitch and pan / change the volume of the signal, and output it alongside the original signal, creating a harmonized signal with the original signal.
